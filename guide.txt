@@ -1,0 +1,36 @@
+E:\saath\saath>npm list @expo/ngrok
+saath@1.0.0 E:\saath\saath
+└── (empty)
+
+
+E:\saath\saath>(npm install @expo/ngrok)
+npm WARN deprecated uuid@3.4.0: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).
+
+added 34 packages, and audited 642 packages in 21s
+
+57 packages are looking for funding
+  run `npm fund` for details
+
+15 moderate severity vulnerabilities
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+
+E:\saath\saath>(npm list @expo/ngrok)
+saath@1.0.0 E:\saath\saath
+└── @expo/ngrok@4.1.3
+
+
+E:\saath\saath>(npx expo start --tunnel)
+Starting project at E:\saath\saath
+Using src/app as the root directory for Expo Router.
+React Compiler enabled
+Starting Metro Bundler
