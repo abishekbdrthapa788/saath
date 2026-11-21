@@ -138,7 +138,7 @@ export default function Index() {
       />
 
       <Image
-        source={require("../../assets/saath_logo.png")}
+        source={require("../../assets/slogo.png")}
         style={styles.logo}
         resizeMode="contain"
       />
